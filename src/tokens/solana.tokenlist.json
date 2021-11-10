@@ -23885,7 +23885,20 @@
     "description": "This is a coin on a mission to inform you of the dangers investing & prevent you from being scammed."
   }
 },
-
+{
+    "chainId": 101,
+    "address": "ZEExktbqMM5ZMS569pCNbzky92KeEmiFeVwR3exfBNn",
+    "symbol": "ZEE",
+    "name": "ZEE",
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZEExktbqMM5ZMS569pCNbzky92KeEmiFeVwR3exfBNn/logo.png",
+    "tags": [
+        "zoints"
+    ],
+    "extensions": {
+      "website": "https://zoints.com"
+      }
+},
 {  "chainId": 101,
       "address": "8cDqXAoivNdvwd1sy74rTfMeYMM4J1u1ey8WRFYk5RD",
       "symbol": "YEE",
